@@ -27,3 +27,11 @@ CIP.py is implementation of one client scenario with our defense (target for ext
 federatedTrain.py is implementation of baseline Federated Learning (FedAVG) (target for internal adversary.)
 
 federatedCIP.py is implementation of FedAVG with our defense (target for internal adversary.)
+
+## References
+Please refer to the following links for attacks/defenses evaluated in the paper:
++ Diferential Privacy: [code](https://github.com/tensorflow/privacy)
++ Adverserial Regularization: [code](https://github.com/NNToan-apcs/python-DP-DL)
++ MMD+Mix-up: [paper](https://arxiv.org/pdf/2002.12062.pdf)
++ Internal adversary: [paper](https://arxiv.org/pdf/1812.00910.pdf)
++ External adversary: [code](https://github.com/hyhmia/BlindMI)
